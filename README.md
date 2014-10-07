@@ -1,5 +1,6 @@
 Description
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/badatcomputer/chef-monitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Monitor is a cookbook for monitoring services, using Sensu, a
 monitoring framework. The default recipe installs & configures the
